@@ -24,7 +24,7 @@ This project aims to predict the Air Quality Index (AQI) using a Random Forest m
 
    ```sh
    git clone https://github.com/your-repo/Air-Quality-Index-Prediction-Model-Utilizing-Random-Forest-and-NodeMCU
-  cd Air-Quality-Index-Prediction-Model-Utilizing-Random-Forest-and-NodeMCU
+   cd Air-Quality-Index-Prediction-Model-Utilizing-Random-Forest-and-NodeMCU
 
 
 2. **Set up the Python environment**
